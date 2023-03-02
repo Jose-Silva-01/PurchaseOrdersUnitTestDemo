@@ -1,0 +1,14 @@
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.frmPurchaseOrder.resources
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.Properties.Resources.resources
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.csproj.GenerateResource.cache
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.csproj.CoreCompileInputs.cache
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\bin\Debug\PurchaseOrderUI.exe.config
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\bin\Debug\PurchaseOrderUI.exe
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\bin\Debug\PurchaseOrderUI.pdb
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\bin\Debug\PurchaseOrders.dll
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\bin\Debug\PurchaseOrders.pdb
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.csproj.CopyComplete
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.exe
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.pdb
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.csproj.AssemblyReference.cache
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrderUI\obj\Debug\PurchaseOrderUI.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,6 @@
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrders\bin\Debug\PurchaseOrders.dll
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrders\bin\Debug\PurchaseOrders.pdb
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrders\obj\Debug\PurchaseOrders.csproj.CoreCompileInputs.cache
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrders\obj\Debug\PurchaseOrders.dll
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrders\obj\Debug\PurchaseOrders.pdb
+C:\Programs\Object Oriented Programming\PurchaseOrdersUnitTestDemo\PurchaseOrders\obj\Debug\PurchaseOrders.csproj.AssemblyReference.cache
